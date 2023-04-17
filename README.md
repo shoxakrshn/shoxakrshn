@@ -27,7 +27,7 @@ Frontend Developer<img align="right" alt="Codewars" src="https://www.codewars.co
   <br />
 </div>
 
-<br><br><br><br>
+<br><br><br><br><br>
 <!----Skills----------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
