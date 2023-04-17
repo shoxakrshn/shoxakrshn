@@ -1,7 +1,7 @@
 <![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hola, I'm Shokh />
 ======================
 
-Frontend Developer<img align="right" alt="Codewars" src="https://www.codewars.com/users/rsschool_880ad906a3e633e8/badges/large"/>
+Frontend Developer<img align="right" alt="Codewars" src="https://www.codewars.com/users/rsschool_880ad906a3e633e8/badges/micro"/>
 ------------------
 
 
@@ -12,10 +12,8 @@ Frontend Developer<img align="right" alt="Codewars" src="https://www.codewars.co
 * ✨ I like to solve algorithmic tasks in Codewars
 * 🔭 Hobbies: Following new techs on web development
 * 🎓 Studied Frontend development in hexlet.io and RSSchool
-* 🧠  I'm learning JavaScropt and React
 
 ###
-
 <div align="left">
   <a href="https://t.me/shoxa">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -29,9 +27,7 @@ Frontend Developer<img align="right" alt="Codewars" src="https://www.codewars.co
   <br />
 </div>
 
-<br><br>
-
-
+<br><br><br><br>
 <!----Skills----------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
@@ -88,17 +84,6 @@ Frontend Developer<img align="right" alt="Codewars" src="https://www.codewars.co
              width="40" height="40"/></a>&nbsp;
 </div>
 <br>
-
-<!----Socials------------------------------------------------------------------------------------------------------------------------------------------>
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/shokhrukh-yusupov-159300228/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;
-  <a href="http://www.instagram.com/shoxakrshn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp;
-  <a href="https://www.facebook.com/shoOoxa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp;
-  <a href="https://www.twitter.com/sllx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://discord.com/users/shoxakrshn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &nbsp;
-   <a href="https://www.github.com/shoxakrshn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> &nbsp;
-</p>
- 
   
 
 <!----Stats-------------------------------------------------------------------------------------------------------------------------------------------->
@@ -108,18 +93,26 @@ Frontend Developer<img align="right" alt="Codewars" src="https://www.codewars.co
         <img src="https://github-readme-stats.vercel.app/api?username=shoxakrshn&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true"
              title="shoxarkshn github repositories" 
              alt="shoxarkshn github stats"
-             width="49%"/>
+             width="45%"/>
     </a>
     <a href="https://github.com/shoxakrshn?tab=repositories" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxakrshn&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages"
              title="PasterZOOM github repositories"
              alt="PasterZOOM github stats"
-             width="38%"/>
+             width="35.5%"/>
     </a>
 </div>
 <!---------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
+<br><br>
+<!----Socials------------------------------------------------------------------------------------------------------------------------------------------>
+<p align="right"> 
+  <a href="https://www.linkedin.com/in/shokhrukh-yusupov-159300228/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a> &nbsp;
+  <a href="http://www.instagram.com/shoxakrshn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a> &nbsp;
+  <a href="https://www.facebook.com/shoOoxa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="20" height="20" /></a> &nbsp;
+  <a href="https://www.twitter.com/sllx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>&nbsp;
+  <a href="https://discord.com/users/shoxakrshn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="20" height="20" /></a> &nbsp;
+   <a href="https://www.github.com/shoxakrshn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="20" height="20" /></a> &nbsp;
+</p>
 
 
 
