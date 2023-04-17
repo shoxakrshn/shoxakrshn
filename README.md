@@ -1,4 +1,4 @@
-<![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hola, I'm Shokh />
+<👋 Hola, I'm Shokh />
 ======================
 
 Frontend Developer<img align="right" alt="Codewars" src="https://www.codewars.com/users/rsschool_880ad906a3e633e8/badges/micro"/>
