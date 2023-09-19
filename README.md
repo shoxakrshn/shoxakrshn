@@ -46,10 +46,10 @@ Frontend Developer<img align="right" alt="Codewars" src="https://www.codewars.co
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
              title="Redux" alt="Redux "
              width="40" height="40"/></a>&nbsp;
-  <!--  <a href="https://nextjs.org/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
              title="NextJS" alt="NextJS "
-             width="40" height="40"/></a>&nbsp; -->
+             width="40" height="40"/></a>&nbsp; 
   <a href="https://sass-lang.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
              title="SASS" alt="SASS"
@@ -78,10 +78,10 @@ Frontend Developer<img align="right" alt="Codewars" src="https://www.codewars.co
              width="40" height="40"/></a>&nbsp;
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>&nbsp;
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="40" height="40" alt="Sketch" /></a>
-    <a href="https://storybook.js.org/" target="_blank">
+    <!--  <a href="https://storybook.js.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg"
              title="Story book" alt="Story book"
-             width="40" height="40"/></a>&nbsp;
+             width="40" height="40"/></a>&nbsp;  -->
 </div>
 <br>
   
